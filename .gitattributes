@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+stochastic_finance.pdf filter=lfs diff=lfs merge=lfs -text
+stochastic_finance_2.pdf filter=lfs diff=lfs merge=lfs -text
